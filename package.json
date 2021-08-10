@@ -2,7 +2,7 @@
   "name": "platzi-badges",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Ivan6801.github.io/proyecto-platzi-badges",
+  "homepage": "https://github.com/Ivan6801/proyecto-platzi-badges.git",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
