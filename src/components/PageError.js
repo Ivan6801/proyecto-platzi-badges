@@ -5,7 +5,7 @@ function PageError (props) {
     return (
             <div className="PageError">❌{props.error.message}😱
             <br />
-                <h1>Lo siento no hay conexion a api 🙂</h1>
+                <h1></h1>
             </div>
 
         );

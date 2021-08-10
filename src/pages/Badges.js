@@ -9,6 +9,8 @@ import PageError from '../components/PageError';
 import MiniLoader from '../components/MiniLoader';
 import api from '../api';
 
+alert('Lo siento no hay conexion a api 🙂')
+
 class Badges extends React.Component {
   state = {
     loading: true,
